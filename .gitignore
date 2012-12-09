@@ -1,0 +1,10 @@
+ParlezVousWS
+.metadata
+bin
+gen
+target
+
+#Eclipse
+.project
+.classpath
+.settings
